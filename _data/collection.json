@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Maclovio Perez" ] },
+    "summary": { "en": [ "This is an annotated interview with Maclovio Perez from the Voces Oral History Project at the University of Texas at Austin. " ] },
+    "items": [
+    ]
+}
