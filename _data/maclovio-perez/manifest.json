@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://zillingworth.github.io/maclovio-perez/maclovio-perez/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Maclovio Perez" ] },
+    "items": [
+      {
+        "id": "https://zillingworth.github.io/maclovio-perez/maclovio-perez/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 574.0,
+        "items": [
+          {
+            "id": "https://zillingworth.github.io/maclovio-perez/maclovio-perez/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://zillingworth.github.io/maclovio-perez/maclovio-perez/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia600507.us.archive.org/25/items/clip-2-for-maggie/Clip%232ForMaggie.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 574.0
+                },
+                "target": "https://zillingworth.github.io/maclovio-perez/maclovio-perez/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
